@@ -1,1 +1,1 @@
-# Travel-Management-System
+# Travel-Management-System  "A comprehensive tour and travel management system that enables users to browse, book, and manage travel packages. It includes features for trip planning, booking, and customer management to streamline the travel experience."
